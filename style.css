@@ -1,0 +1,89 @@
+{\rtf1\ansi\ansicpg1251\cocoartf2709
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab560
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f0\fs26 \cf0 body \{\
+    font-family: sans-serif;\
+\} \
+header\{\
+    border: 4px solid navy;\
+    border-radius: 10px;\
+    color: navy;\
+    padding: 5px;\
+\
+\}\
+\
+header a\{\
+    background-color: navy;\
+    text-decoration: none;\
+    border: 1px solid navy;\
+    border-radius: 10px;\
+    color: white;\
+    padding: 3px;\
+\}\
+\
+nav\{\
+  border: 4px solid lightblue;\
+  text-align: center;\
+  margin-top: 10px;\
+  padding: 10px;\
+  border-radius: 10px;\
+\}\
+\
+nav a\{\
+   text-decoration: none;\
+   padding: 30px;\
+   margin: 10px;\
+   color: navy;\
+   font-family: sans-serif;\
+\}\
+\
+h2\{\
+    color: navy;\
+\}\
+\
+p\{\
+    margin: 10px;\
+\}\
+\
+main a\{\
+   \
+\}\
+\
+.tov\{\
+    border: 4px solid lightblue;\
+    border-radius: 10px;\
+    padding: 10px;\
+\}\
+\
+.hello\{\
+    text-align: center;\
+    color:navy;\
+    background-color: lightblue;\
+    border-radius: 10px;\
+    border: 1px solid li;\
+\}\
+\
+footer\{\
+    background-color: lightblue;\
+    border: 4px solid navy;\
+    border-radius: 10px;\
+    padding: 10px;\
+\}\
+\
+footer p\{\
+    background-color: white;\
+\}\
+\
+.posulania\{\
+    border: 3px dotted navy;\
+    text-decoration: none;\
+    margin: 10px;\
+    padding: 6px;\
+\}\
+\
+}
